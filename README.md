@@ -33,3 +33,4 @@ Testing and Deployment
 Local Testing: Use Hardhat's local node:
 npx hardhat node
 
+Full Stop
